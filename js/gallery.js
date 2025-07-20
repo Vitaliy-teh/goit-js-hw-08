@@ -98,5 +98,5 @@ gallery.addEventListener('click', (event) => {
     <img src="${largeImageURL}" alt="${img.alt}" width="800" height="auto">
   `);
 
-  instance.show();
+    instance.show();
 });
